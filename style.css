@@ -1,0 +1,86 @@
+body {
+  background-image: url("../pexels-marctutorials-1152359.jpg");
+  background-size: 100%;
+
+}
+
+.header {
+
+  height: 20px;
+  width: 100%;
+  background-color: #fff;
+}
+
+.mainpart {
+  height: 600px;
+  width: 100%;
+  background-size: cover;
+}
+
+.container{
+  text-align: left;
+}
+
+.logos {
+  background-image: linear-gradient(to bottom right, red, lightblue);
+  height: 100px;
+}
+
+.row1_container {
+  background-color: white;
+  height: 300px;
+  font-size: 8px;
+}
+
+.contact{
+  background-color: lightblue;
+  height: 150px;
+  color: white;
+  font-size: 40px
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 50 px;
+}
+
+
+
+
+.footer_container {
+  width: 100%;
+  height: 300px;
+  text-align: left;
+  padding-top: 7%;
+  background-color: black;
+
+}
+
+.linked {
+  display: inline-block;
+  color: white;
+  width: 10%;
+  font-size: 10px;
+}
+
+.col-md-4 {
+  text-align: center;
+  font-size: 25px;
+  border-style: solid;
+  border-color: black;
+
+
+}
+
+.row{
+  text-align: center;
+}
+
+.row_container{
+  background-color: tan;
+  width: 100%;
+  height: 12%;
+}
+
+.text{
+  color: white;
+  text-align: right;
+}
